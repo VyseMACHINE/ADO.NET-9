@@ -1,0 +1,23 @@
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EFConnectionTypeApp.exe.config
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EFConnectionTypeApp.exe
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EFConnectionTypeApp.pdb
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.dll
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.xml
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.csprojAssemblyReference.cache
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.csproj.CopyComplete
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.exe
+C:\Users\СабитовИ\source\repos\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.pdb
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EFConnectionTypeApp.exe.config
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EFConnectionTypeApp.exe
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EFConnectionTypeApp.pdb
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.dll
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.xml
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.exe
+C:\Users\Ильяс Сабитов\source\EFConnectionTypeApp\EFConnectionTypeApp\obj\Debug\EFConnectionTypeApp.pdb
